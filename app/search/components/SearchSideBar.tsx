@@ -1,5 +1,3 @@
-import React from "react"
-
 const SearchSideBar = (): JSX.Element => {
   return (
     <div className="w-1/5">

@@ -1,5 +1,3 @@
-import React from "react"
-
 const Description = (): JSX.Element => {
   return (
     <div className="mt-4">

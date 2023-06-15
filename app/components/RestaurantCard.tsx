@@ -1,7 +1,6 @@
-import React from "react"
 import Link from "next/link"
 
-const RestaurantCard = () => {
+const RestaurantCard = (): JSX.Element => {
   return (
     <div className="w-64 h-72 m-3 rounded overflow-hidden border cursor-pointer">
       <Link href="/restaurant/milestones-grill">

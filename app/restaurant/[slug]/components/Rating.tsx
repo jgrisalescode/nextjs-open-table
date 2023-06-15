@@ -1,5 +1,3 @@
-import React from "react"
-
 const Rating = (): JSX.Element => {
   return (
     <div className="flex items-end">
