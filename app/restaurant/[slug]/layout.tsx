@@ -1,5 +1,10 @@
 import Header from "./components/Header"
 
+export const metadata = {
+  title: "Milestones Grill (Toronto)",
+  description: "Best food of Canada"
+}
+
 const layout = ({ children }: { children: React.ReactNode }): JSX.Element => {
   return (
     <main>

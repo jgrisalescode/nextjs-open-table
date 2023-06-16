@@ -3,6 +3,11 @@ import Header from "./components/Header"
 import SearchSideBar from "./components/SearchSideBar"
 import RestaurantCard from "./components/RestaurantCard"
 
+export const metadata = {
+  title: "OpenTable | Search",
+  description: "Reserve your next party"
+}
+
 const Search = (): JSX.Element => {
   return (
     <>
